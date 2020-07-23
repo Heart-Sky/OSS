@@ -41,7 +41,7 @@
 		{
 			"techniqueID": "T1548.003",
 			"tactic": "privilege-escalation",
-			"color": "#d9d9d9",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -50,7 +50,7 @@
 		{
 			"techniqueID": "T1548.003",
 			"tactic": "defense-evasion",
-			"color": "#d9d9d9",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -129,6 +129,24 @@
 			"showSubtechniques": false
 		},
 		{
+			"techniqueID": "T1543.002",
+			"tactic": "persistence",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T1543.002",
+			"tactic": "privilege-escalation",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"showSubtechniques": false
+		},
+		{
 			"techniqueID": "T1555",
 			"tactic": "credential-access",
 			"color": "#d9d9d9",
@@ -149,6 +167,24 @@
 		{
 			"techniqueID": "T1485",
 			"tactic": "impact",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T1546.004",
+			"tactic": "privilege-escalation",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T1546.004",
+			"tactic": "persistence",
 			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
@@ -275,7 +311,7 @@
 		{
 			"techniqueID": "T1046",
 			"tactic": "discovery",
-			"color": "#d9d9d9",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -303,6 +339,24 @@
 			"techniqueID": "T1137",
 			"tactic": "persistence",
 			"color": "#fdd0a2",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T1055.009",
+			"tactic": "defense-evasion",
+			"color": "#fd8d3c",
+			"comment": "",
+			"enabled": true,
+			"metadata": [],
+			"showSubtechniques": false
+		},
+		{
+			"techniqueID": "T1055.009",
+			"tactic": "privilege-escalation",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -392,7 +446,7 @@
 		{
 			"techniqueID": "T1548.001",
 			"tactic": "privilege-escalation",
-			"color": "#d9d9d9",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -401,7 +455,7 @@
 		{
 			"techniqueID": "T1548.001",
 			"tactic": "defense-evasion",
-			"color": "#d9d9d9",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -2984,7 +3038,7 @@
 		{
 			"techniqueID": "T1529",
 			"tactic": "impact",
-			"color": "#636363",
+			"color": "#fd8d3c",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
